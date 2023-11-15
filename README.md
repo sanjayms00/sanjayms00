@@ -1,4 +1,3 @@
-![MasterHead](https://d32myzxfxyl12w.cloudfront.net/images/blog_images/a01a4415e6a55470a79df3cc451967a36b98e709.jpg?1649061520")
 
 <h1 align="center">Hi 👋, I'm Sanjay M S</h1>
 <h3 align="center">Full stack developer from India/Kerala</h3>
