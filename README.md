@@ -1,6 +1,6 @@
 
 # ✌️Hi there, I'm Sanjay M S
-<img src="https://klizos.com/wp-content/uploads/image2-3.gif" width="300" style="padding-right: 15px" align="left" alt="coding"/>
+<img src="https://klizos.com/wp-content/uploads/image2-3.gif" width="250" style="padding-right: 15px" align="left" alt="coding"/>
 
 🔭 I'm a Full stack web developer <br>
 🤝 I’m looking for a job in MEAN stack <br>🌱 I’m currently learning Angular <br>💬 Ask me about web development <br>⚡ Fun fact is that I'm very curious
