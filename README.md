@@ -1,6 +1,6 @@
 
 # ✌️Hi there, I'm Sanjay M S
-<img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="300" style="padding-right: 15px" align="left" alt="coding"/>
+<img src="https://klizos.com/wp-content/uploads/image2-3.gif" width="300" style="padding-right: 15px" align="left" alt="coding"/>
 
 🔭 I'm a Full stack web developer <br>
 🤝 I’m looking for a job in MEAN stack <br>🌱 I’m currently learning Angular <br>💬 Ask me about web development <br>⚡ Fun fact is that I'm very curious
